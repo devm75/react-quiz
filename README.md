@@ -1,7 +1,7 @@
 React Quiz App
 =======================================
 
-[Demo](https://prachi-bansal26.github.io/react-quiz-app/)
+[Demo](https://devm75.github.io/react-quiz/)
 
 ## Setup
 
